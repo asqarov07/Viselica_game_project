@@ -1,0 +1,4 @@
+Немецкая машина,Audi
+Русская машина,Lada
+Cristioano,Ronaldo
+Lionel,Messi
